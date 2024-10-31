@@ -26,6 +26,8 @@ The dataset used in this project includes µ-CT images stored in Google Drive du
 
 This dataset includes images for training, validation, and testing, using a cross-fold approach to maximize model robustness.
 
+---
+
 ### 2. Composite_ML_classic_model.ipynb
 
 This notebook demonstrates training classical machine learning models on features extracted from the µ-CT images. The results from this notebook correspond to Figures 2 and 3 in the paper, as well as Supplementary Figure S2. 
