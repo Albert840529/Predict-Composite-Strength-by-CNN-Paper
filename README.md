@@ -1,6 +1,6 @@
 # Predict-Composite-Strength-by-CNN-Paper
 ![Description of Image](TOC_Meta_Learner.png)
-This repository contains all code for the paper Predicting the Strength of Composites with Computer Vision Using Small Experimental Datasets. It includes scripts for data preprocessing, model training, and evaluation of predictive models designed to analyze composite material strength through computer vision techniques on limited datasets
+This repository contains all code for the paper [Predicting the Strength of Composites with Computer Vision Using Small Experimental Datasets](https://chemrxiv.org/engage/chemrxiv/article-details/674497305a82cea2fac3abac). It includes scripts for data preprocessing, model training, and evaluation of predictive models designed to analyze composite material strength through computer vision techniques on limited datasets
 
 ### 1. Data
 
