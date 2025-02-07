@@ -6,7 +6,7 @@ This repository contains all code for the paper [Predicting the Strength of Comp
 
 The dataset used in this project includes µ-CT images stored in Google Drive due to size limitations. You can access the data at the following link:
 
-[Images Folder - µ-CT Dataset](https://drive.google.com/drive/folders/1-u20wZFzXZdZkEPIlHQq2MeBl_qfRyAa?usp=drive_link)
+[Images Folder - µ-CT Dataset](https://doi.org/10.5281/zenodo.14803929)
 
 #### Folder Structure
 
